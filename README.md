@@ -4,7 +4,7 @@
 
 ## 🔌 Tech Stack 🔨
 
-- ⌨️  Languages: C++ | Python | HTML | JavaScript | CSS
+- ⌨️  Languages: C++ | C | Python | HTML | JavaScript | CSS
 <!--- - 📱  Mobile: --->
 <!--- - 🌐  Frontend: --->
 <!--- - 📚  Libraries: <img src="https://img.shields.io/badge/-MaterialUI-037FFF?logo=mui&logoColor=fff" /> <img src="https://img.shields.io/badge/-Bootstrap-8112F4?logo=bootstrap&logoColor=fff" />
