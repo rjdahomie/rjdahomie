@@ -1,6 +1,9 @@
 ### Hi, I'm Rasa 👨‍💻
 
 > I'm a computer science undergrad @ UC Riverside working on becoming a full-stack developer!
+> 
+Previous experience and internships: <br />
+![Nike](https://img.shields.io/badge/NIKE%20SOFTWARE%20ENGINEERING%20INTERN-black?style=for-the-badge&logo=nike)  
 
 ## 🔌 Tech Stack 🔨
 - ⌨️  Languages:
