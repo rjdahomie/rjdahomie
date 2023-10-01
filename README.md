@@ -3,19 +3,47 @@
 > I'm a computer science undergrad @ UC Riverside working on becoming a full-stack developer!
 
 ## 🔌 Tech Stack 🔨
+- ⌨️  Languages:
+![C++](https://img.shields.io/badge/C++-grey?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge&logo=c)
+![Python](https://img.shields.io/badge/python-grey?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript)
+![HEML](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3)
+![GraphQL](https://img.shields.io/badge/GraphQL-grey?style=for-the-badge&logo=graphql)
 
-- ⌨️  Languages: ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminalt-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-<!--- - 📱  Mobile: --->
-- 🌐  Frontend: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<!--- - 📚  Libraries: <img src="https://img.shields.io/badge/-MaterialUI-037FFF?logo=mui&logoColor=fff" /> <img src="https://img.shields.io/badge/-Bootstrap-8112F4?logo=bootstrap&logoColor=fff" />
-<!--- - 🗄  Backend: ---> 
-- 🛢  Database: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-- ⚙️  VCS:   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-- 🚦  CI: ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-- 🔧  IDE's:  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) 
-<!--- - 🖥  Design: --->
-- 🖥️  OS: ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-- ❗️  Other: ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+- 🔧  Software and Tools:
+![AWS](https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=amazonaws)
+![NodeJS](https://img.shields.io/badge/Node.JS-grey?style=for-the-badge&logo=nodedotjs)
+![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react)
+![Postman](https://img.shields.io/badge/Postman-grey?style=for-the-badge&logo=postman)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-grey?style=for-the-badge&logo=apollographql)
+![GTest](https://img.shields.io/badge/GTest-grey?style=for-the-badge&logo=google)
+
+- 🛢  Database:
+![PostgreSQL](https://img.shields.io/badge/postgreSQL-grey?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=for-the-badge&logo=mongodb)
+
+- ⚙️  VCS:
+![Git](https://img.shields.io/badge/Git-grey?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
+
+- 🚦  CI:
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-grey?style=for-the-badge&logo=githubactions)
+![YAML](https://img.shields.io/badge/Yaml-grey?style=for-the-badge&logo=yaml)
+
+- 🖥️  OS and IDE:
+![Windows](https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=windows)
+![macOS](https://img.shields.io/badge/MacOS-grey?style=for-the-badge&logo=macos)
+![Linux](https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-grey?style=for-the-badge&logo=ubuntu)
+![VSCode](https://img.shields.io/badge/VSCode-grey?style=for-the-badge&logo=visualstudiocode)
+![Vim](https://img.shields.io/badge/Vim-grey?style=for-the-badge&logo=vim)
+
+- ❗️  Other:
+![CMake](https://img.shields.io/badge/CMake-grey?style=for-the-badge&logo=cmake)
+
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rasajahromi/)
 
